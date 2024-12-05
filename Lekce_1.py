@@ -1,1 +1,5 @@
 print(3*3)
+print(5*5)
+print(4+2)
+print(9-4)
+print(10/2)
