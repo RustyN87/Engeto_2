@@ -1,2 +1,2 @@
-
+print("Dobrý den")
 
