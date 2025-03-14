@@ -75,8 +75,8 @@ def count_capitalized_words(text):
     words = text.split()
     capitalized_count = 0
     for word in words:
-            if word[0].isupper():
-                capitalized_count += 1
+        if word[0].isupper():
+            capitalized_count += 1
     return capitalized_count
 
 def count_uppercase_words(text):
@@ -159,4 +159,4 @@ def main():
     
 if __name__ == "__main__":
 
- main()
+    main()
